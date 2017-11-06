@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>239460798925-uuoktubjjdbr1i7fp81bn7v4f80t07cd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.239460798925-uuoktubjjdbr1i7fp81bn7v4f80t07cd</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCR0f96hhYs6ys_mE_dj-i7jGG0Db20d8g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>239460798925</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>nus.reactnative.ShareItNow</string>
+	<key>PROJECT_ID</key>
+	<string>share-it-now-1495612348414</string>
+	<key>STORAGE_BUCKET</key>
+	<string>share-it-now-1495612348414.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:239460798925:ios:49738f17bf7f5524</string>
+	<key>DATABASE_URL</key>
+	<string>https://share-it-now-1495612348414.firebaseio.com</string>
+</dict>
+</plist>

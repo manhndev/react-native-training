@@ -1,0 +1,38 @@
+{
+  "name": "ShareItNow",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.0",
+    "react": "16.0.0-beta.5",
+    "react-actioncable-provider": "^1.0.0",
+    "react-native": "0.49.1",
+    "react-native-actioncable": "0.0.3",
+    "react-native-busy-indicator": "^1.1.0",
+    "react-native-fabric": "^0.5.1",
+    "react-native-fbsdk": "^0.6.0",
+    "react-native-fcm": "^10.0.1",
+    "react-native-image-picker": "^0.26.7",
+    "react-native-loading-spinner-overlay": "^0.5.2",
+    "react-native-textinput-effects": "^0.4.1",
+    "react-native-vector-icons": "^4.4.2",
+    "react-navigation": "1.0.0-beta.11",
+    "react-redux": "5.0.4",
+    "redux": "3.6.0",
+    "redux-persist": "4.8.0",
+    "redux-thunk": "2.2.0"
+  },
+  "devDependencies": {
+    "babel-jest": "21.2.0",
+    "babel-preset-react-native": "4.0.0",
+    "jest": "21.2.1",
+    "react-test-renderer": "16.0.0-beta.5"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
